@@ -14,9 +14,9 @@ Snake - Projet tuteuré - S2
 - [Git Tutorial for Beginners - (en)](https://www.youtube.com/watch?v=XF99kTmS2gg&ab_channel=KeepOnCoding)
 - [Graven - Les Bases de Git - (fr)](https://www.youtube.com/watch?v=gp_k0UVOYMw&list=PLjrPHUQxj3oTZS2g9iwfdv7eKHbUl1kWn&index=3&ab_channel=Graven-D%C3%A9veloppement)
 
-```java
-public static int test(int a, int b){
-    return a+b;
+```javascript
+function test() {
+  console.log("notice the blank line before this function?");
 }
 ```
     
