@@ -7,7 +7,7 @@ Snake - Projet tuteuré - S2
 ## A installer:
 - [Git](https://git-scm.com/downloads)
 - [IntelliJ IDEA](https://www.jetbrains.com/fr-fr/idea/)
-- [Extension "Code with me" d'IntelliJ IDEA](https://www.jetbrains.com/help/idea/code-with-me.html)
+- Extension" [Code with me](https://www.jetbrains.com/help/idea/code-with-me.html)" d'IntelliJ IDEA
 
 ## Ressource pour comprendre Git / Github :
 - [Harvard - Git and GitHub - (en)](https://www.youtube.com/watch?v=eulnSXkhE7I&list=PLjrPHUQxj3oTZS2g9iwfdv7eKHbUl1kWn&index=2&t=3168s&ab_channel=CS50)
