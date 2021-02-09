@@ -1,4 +1,4 @@
-# snake-ptut-s2
+# Snake - PTUT - S2
 Snake - Projet tuteuré - S2
 
 ## A créer :
