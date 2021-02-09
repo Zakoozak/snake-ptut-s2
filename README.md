@@ -2,7 +2,7 @@
 Snake - Projet tuteuré - S2
 
 ## A créer :
-- compte [github premium](https://education.github.com/pack/offers)
+- Compte [github premium](https://education.github.com/pack/offers)
 
 ## A installer:
 - [Git](https://git-scm.com/downloads)
