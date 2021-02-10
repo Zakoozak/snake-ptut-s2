@@ -3,6 +3,7 @@ Snake - Projet tuteuré - S2
 
 ## A créer :
 - Compte [Github premium](https://education.github.com/pack/offers)
+- Compte JetBrain
 
 ## A installer:
 - [Git](https://git-scm.com/downloads)
